@@ -7,5 +7,6 @@
   <body>
     <h1>Hello world </h1>
     <p>Привет Егор и всем кто тут есть тоже привет</p>
-  </body>
+    <?php echo 'hello';?>
+</body>
 </html>
